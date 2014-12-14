@@ -1,0 +1,14 @@
+{
+	"category" : "Gotham",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"browser" ],
+	"name" : "Gotham",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }
