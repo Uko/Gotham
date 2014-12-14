@@ -7,12 +7,10 @@ buildBrowser
 		column: #status.
 	browser transmit to: #city; andShow: [ :a |
 		a city
-      title: 'Package';
+      title: 'Packages';
       builder: self builder ].
 
 	browser transmit
 		from: #city;
 		to: #status; andShow: [ :a | 
-			a list
-				display: [:packageName |
-					packageName inspect ] ]. 
+			self pieIn: a ]. 

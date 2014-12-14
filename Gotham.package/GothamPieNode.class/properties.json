@@ -1,0 +1,16 @@
+{
+	"category" : "Gotham",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"name",
+		"amount",
+		"color" ],
+	"name" : "GothamPieNode",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }
