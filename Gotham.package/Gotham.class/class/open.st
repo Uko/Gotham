@@ -1,3 +1,3 @@
 as yet unclassified
 open
-	^ self new open
+	^ self openOn: RPackageOrganizer default packages

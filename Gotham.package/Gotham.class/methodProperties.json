@@ -1,9 +1,13 @@
 {
 	"class" : {
-		"open" : "YuriyTymchuk 12/14/2014 21:17" },
+		"example" : "YuriyTymchuk 12/15/2014 07:39",
+		"open" : "YuriyTymchuk 12/15/2014 11:43",
+		"openOn:" : "YuriyTymchuk 12/15/2014 11:42" },
 	"instance" : {
-		"buildBrowser" : "YuriyTymchuk 12/14/2014 23:10",
+		"buildBrowser" : "YuriyTymchuk 12/15/2014 11:50",
 		"builder" : "YuriyTymchuk 12/14/2014 21:24",
+		"initializePackages:" : "YuriyTymchuk 12/15/2014 11:42",
 		"open" : "YuriyTymchuk 12/14/2014 21:18",
-		"packages" : "YuriyTymchuk 12/14/2014 21:19",
-		"pieIn:" : "YuriyTymchuk 12/14/2014 23:17" } }
+		"packages" : "YuriyTymchuk 12/15/2014 10:43",
+		"pieIn:" : "YuriyTymchuk 12/14/2014 23:17",
+		"stats" : "YuriyTymchuk 12/15/2014 09:53" } }

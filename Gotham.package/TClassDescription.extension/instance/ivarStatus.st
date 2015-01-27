@@ -1,4 +1,4 @@
 *gotham
 ivarStatus
 
-	^ self instanceVariables size / 8
+	^ self instVarNames size / 8

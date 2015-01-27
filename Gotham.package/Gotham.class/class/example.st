@@ -1,4 +1,4 @@
 as yet unclassified
-packages
+example
 
-	^ packages
+	self open
